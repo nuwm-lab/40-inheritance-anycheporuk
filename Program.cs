@@ -1,7 +1,7 @@
 using System;
 
 class TwoInequalitiesSystem {
-  protected double[,] a = new double[2, 2];  
+  protected double[,] a = new double[2, 2];  //Добрий день
   protected double[] b = new double[2];     
 
   public virtual void InputCoefficients() {
