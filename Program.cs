@@ -1,8 +1,8 @@
 using System;
 
 class TwoInequalitiesSystem {
-  protected double[,] a = new double[2, 2];  // коефіцієнти a11, a12, a21, a22
-  protected double[] b = new double[2];      // коефіцієнти b1, b2
+  protected double[,] a = new double[2, 2];  
+  protected double[] b = new double[2];     
 
   public virtual void InputCoefficients() {
     Console.WriteLine("Введіть коефіцієнти для системи двох нерівностей:");
